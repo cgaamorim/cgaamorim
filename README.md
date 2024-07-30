@@ -7,19 +7,19 @@
 
 ## Sobre Mim
 
-Olá! Sou apaixonado por dados e tecnologia. Atualmente, estou imerso em bootcamps focados em Data Analytics e Business Intelligence, sempre em busca de novas oportunidades para aplicar e expandir meus conhecimentos.
+Olá! Sou apaixonada por dados e tecnologia. Atualmente, estou imerso em bootcamps focados em Data Analytics e Business Intelligence, sempre em busca de novas oportunidades para aplicar e expandir meus conhecimentos.
 
 ## Objetivo deste Perfil
 
-Este perfil está em construção e tem como principal objetivo servir como um espaço de aprendizado contínuo. Aqui você encontrará:
+Este perfil **está em construção** e tem como principal objetivo servir como um espaço de aprendizado contínuo. Aqui você encontrará:
 
-- **Projetos de estudo e prática em Data Analytics e BI**
-- **Anotações e resumos de cursos e bootcamps**
-- **Colaborações em projetos open-source**
+- *Projetos de estudo e prática em Data Analytics e BI*
+- *Anotações e resumos de cursos e bootcamps*
+- *Colaborações em projetos open-source*
 
 ## Vamos Conectar!
 
-Se você compartilha o mesmo entusiasmo por dados e tecnologia, sinta-se à vontade para entrar em contato! Estou sempre aberto a novas colaborações e oportunidades de aprendizado.
+Se você compartilha o mesmo entusiasmo por dados e tecnologia, sinta-se à vontade para entrar em contato! Estou sempre aberta a novas colaborações e oportunidades de aprendizado.
 
 📚 **Sempre aprendendo,** 📈 **sempre crescendo!**
 
